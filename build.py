@@ -209,7 +209,7 @@ def sign():
             'sign',
             '/n',
             'Discord Inc.',
-            '/a',
+            '/a', 
             '/tr',
             'http://timestamp.digicert.com/rfc3161',
             '/as',
